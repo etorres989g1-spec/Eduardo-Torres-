@@ -39,7 +39,7 @@ Create a home SOC environment to detect malicious activities.
 * KQL queries
 * Incident investigation
 #### Repository
-https://github.com/USERNAME/threat-detection-lab
+https://github.com/etorres989g1-spec/Threat-Detection-Lab.git
 
 2. Vulnerability Assessment Project
 Objective
