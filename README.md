@@ -17,28 +17,28 @@ CompTIA Security+
 ### 🛠 Technical Skills
 | Category              | Skills                 | Project |                          
 |-----------------------|------------------------|---------|
-| Security Tools        | Wireshark, Splunk, Microsoft Sentinel, Nessus, Burp Suite | <a href="https://google.com"> Detection Lab</a>|
-| Operating Systems	    | Windows, Linux, Kali Linux |
-| Cloud Security        | Azure, AWS, Microsoft Defender |
-| Programming	          | Python, PowerShell, Bash |
-| Networking            | TCP/IP, DNS, VPNs, Firewalls |
-| Frameworks            | NIST CSF, MITRE ATT&CK, CIS Controls |
+| Security Tools        | Wireshark, Splunk, Microsoft Sentinel, Nessus, Burp Suite | <a href="https://google.com">Detection Lab</a>|
+| Operating Systems	    | Windows, Linux, Kali Linux | <a href="https://google.com">Detection Lab</a>|
+| Cloud Security        | Azure, AWS, Microsoft Defender | <a href="https://google.com">Detection Lab</a>|
+| Programming	          | Python, PowerShell, Bash | <a href="https://google.com">Detection Lab</a>|
+| Networking            | TCP/IP, DNS, VPNs, Firewalls | <a href="https://google.com">Detection Lab</a>|
+| Frameworks            | NIST CSF, MITRE ATT&CK, CIS Controls | <a href="https://google.com">Detection Lab</a>|
 
 ### 🚨 Featured Projects
 1. Threat Detection Lab
-Objective
+Objective:
 
 Create a home SOC environment to detect malicious activities.
 
-Technologies
-Microsoft Sentinel
-Azure
-Log Analytics
-Skills Demonstrated
-SIEM configuration
-KQL queries
-Incident investigation
-Repository
+#### Technologies
+* Microsoft Sentinel
+* Azure
+* Log Analytics
+#### Skills Demonstrated
+* SIEM configuration
+* KQL queries
+* Incident investigation
+#### Repository
 https://github.com/USERNAME/threat-detection-lab
 
 2. Vulnerability Assessment Project
